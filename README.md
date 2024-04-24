@@ -1,4 +1,4 @@
-<h1>Azure Sentinal SEIM Honeypot</h1>
+<h1>Azure Sentinel SEIM Honeypot</h1>
 
  
 
@@ -46,7 +46,7 @@ Configure data collection to collect all events:  <br/>
 <img src="https://imgur.com/gU2amQb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add Sentinal to workspace:  <br/>
+Add Sentinel to workspace:  <br/>
 <img src="https://imgur.com/r2OcECO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
