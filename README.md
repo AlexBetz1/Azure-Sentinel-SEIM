@@ -34,16 +34,20 @@ Create a Log Analytics workspace : <br/>
 <img src="https://imgur.com/EV0la3X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enable gathering the virtual machines logs in the security center:  <br/>
-<img src="https://imgur.com/HXcifzC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Connect Log Analytics to the virtual machine:  <br/>
 <img src="https://imgur.com/PK3h74l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setup Azure Sentinal:  <br/>
+Enable the ability to gather logs from the virtual machine to the work analytics workspace by turning defender on:  <br/>
 <img src="https://imgur.com/gtlEgCi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Configure data collection to collect all events:  <br/>
+<img src="https://imgur.com/gU2amQb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Add Sentinal to workspace:  <br/>
+<img src="https://imgur.com/r2OcECO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Download remote desktop and log into the virtual machine with remote desktop :  <br/>
