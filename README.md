@@ -10,7 +10,7 @@ This project combines Azure Sentinel, a cloud-native SIEM, with a live honeypot 
 <h2>Utilities Used</h2>
 
 - <b>Azure Virtual Machine</b> 
-- <b>Azure Sentinal</b>
+- <b>Azure Sentinel</b>
 - <b>Powershell</b>
 - <b>ipgeolocation</b>
 
@@ -89,7 +89,7 @@ Monitor map of attacks:  <br/>
 <img src="https://imgur.com/O8A2E4J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sentinal SEIM overview of events:  <br/>
+Sentinel SEIM overview of events:  <br/>
 <img src="https://imgur.com/t4VXkRs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
