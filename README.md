@@ -61,7 +61,7 @@ Get ipgeolocation.io API key:  <br/>
 <img src="https://imgur.com/26Wv8MW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Run script to get geo data from attackers:  <br/>
+Run script to gather geo data from attackers:  <br/>
 <img src="https://imgur.com/H9BAUQ4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -77,11 +77,7 @@ Test extracts:  <br/>
 <img src="https://imgur.com/eeuBW29.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create a new workbook and set up a map in sentinal with latitude and longitude.Set map size with the evet count and heat map setting:  <br/>
-<img src="https://imgur.com/ks4Ercy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Set map size with the evet count and heat map setting:  <br/>
+Create a new workbook and set up a map in sentinal with latitude and longitude. Set map size with the evet count and heat map setting:  <br/>
 <img src="https://imgur.com/ks4Ercy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -90,7 +86,7 @@ Monitor map of attacks:  <br/>
 <br />
 <br />
 Sentinal SEIM overview of events:  <br/>
-<img src="https://https://imgur.com/t4VXkRs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/t4VXkRs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
